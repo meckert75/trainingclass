@@ -2,6 +2,6 @@ TITLE This is the first document of the git training
 
 SECTION Lorum ipsum
 
-3 CONTENT
-4 some more text
-5 yet more text
+1 CONTENT
+2 some more text
+3 yet more text
