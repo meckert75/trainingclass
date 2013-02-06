@@ -3,3 +3,4 @@ This is the first document of the git training
 Lorum ipsum
 
 some more text
+yet more text
