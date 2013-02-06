@@ -5,3 +5,4 @@ SECTION Lorum ipsum
 1 CONTENT
 2 some more text
 3 yet more text
+4 last line
