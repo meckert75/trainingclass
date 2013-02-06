@@ -1,6 +1,7 @@
-This is the first document of the git training
+TITLE This is the first document of the git training
 
-Lorum ipsum
+SECTION Lorum ipsum
 
+CONTENT
 some more text
 yet more text
